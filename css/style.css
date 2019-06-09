@@ -29,16 +29,16 @@ p {font-weight: 200; font-size: 18px;}
 }
 
 .item:nth-child(1) {
-  grid-row: 1 / 2;
+  grid-row: 1 / 3;
 }
 
 .item:nth-child(2) {
 
-  grid-row: 1 / 2;
+  grid-row: 1 / 3;
 }
 
 .item:nth-child(3) {
-  grid-row: 1 / 2;
+  grid-row: 1 / 3;
 }
 
 .grid > .item {
