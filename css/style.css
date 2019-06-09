@@ -22,7 +22,7 @@ p {font-weight: 200; font-size: 18px;}
 .grid {
   display: grid;
   grid-template-rows: 
-    repeat(2, 210px);
+    repeat(1, 210px);
   grid-template-columns: 
     repeat(3, 1fr);
   grid-gap: 5px;
