@@ -9,7 +9,7 @@ a {color: #777; text-decoration: none; border-bottom: 1px solid #88b0d8;}
 a:hover {border-bottom: 1px solid #6f8ca9; color: #222}
 p {font-weight: 200; font-size: 20px;}
 
-.name {font-family:  Source Sans Pro; font-size: 30px; font-weight: 900; padding-bottom: 16px;}
+.name {font-family: Franklin Gothic Book, Source Sans Pro, Helvetica Neue, sans-serif; font-size: 30px; font-weight: 900; padding-bottom: 16px;}
 
 .container {margin: 0 auto; width: 750px; height: 1200px; padding: 80px 12px; overflow: auto;}
 
